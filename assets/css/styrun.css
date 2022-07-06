@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.navbar{
+    height: 100%;
+    width: 80%;
+    margin: 20px auto;
+}
+
+
+.logodiv{
+   height: 100%;
+   width: 20%;
+    float: left;
+
+}
+
+.logodiv img {
+    width: 80%;
+}
+
+.menu{
+    height: 100%;
+    width: 60%;
+    float: left;
+}
+.menu ul{
+    text-align: center;
+}
+
+.menu ul li{
+    display: inline-block;
+    margin: 30px 20px;
+    padding-top: 6px;
+    color: #3b565b;
+    cursor: pointer;
+
+}
+
+.menu ul li:hover{
+    border: none;
+    border-top: 3px solid #148ab1 ;
+}
+
+.alignsearch{
+    height: 100%;
+    width: 14%;
+    float: left;
+    margin: 30px 0px 0px 0px;
+
+}
+
+.searchinput{
+    border: none;
+    background: none;
+}
+
+.searchinput:focus{
+  
+    outline: none;
+}
+
+
+.searchbox{
+    border-bottom: 2px solid #148ab1 ;
+}
+
+.color-blue{
+    color: #00a4c5;
+}
+
+.mainpage{
+    height: 900px;
+    width: 70%;
+    margin: 90px 90px;
+}
+
+
+.parag{
+    margin-top: 60px;
+    color: #507197;
+    text-align: justify;
+}
+
+.imgplay{
+
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0px 0px 15px 4px #5493ed;
+    vertical-align: middle;
+  
+}
+
+div.playbut {
+    display: flex;
+    align-items: center;
+}
+
+
+.playbut li{
+display: inline-block;
+margin-top: 60px;
+margin-left: 10px;
+}
+
+.textszone {
+    height: 100px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+.bigimage{
+    float: right;
+    width: 35%;
+    position: relative;
+    top: -125px;
+
+}
