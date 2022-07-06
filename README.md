@@ -10,6 +10,9 @@ saving versions commands:
 - git log (shows all commits)
 - (END) => :q pour quitter 
 - git chekout (commit-code/master): get back to the stae of code you wanted form commit 
+- git checkout -b branch-name => create branch 
+- git branch --delete bracnch-name => delete branch
+- git branch ( shows the local branches you have + selected actual branch (colerd with *))
 
 branches:
 -feature /home-page-ui
