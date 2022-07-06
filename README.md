@@ -1,8 +1,11 @@
 commands: 
--git init (initialitsation d'un projet)
--gid add (add new files to git)
+recognition commands : 
 - git config -- global user.email 'your@email'
 - git config -- global user.name 'Ayoub'
+
+saving versions commands:
+- git init (initialitsation d'un projet)
+- gid add (add new files to git)
 - git commit -am "init project"
 
 letters :
