@@ -21,7 +21,7 @@ branches:
 -fix/register-api
 
 letters :
--U : un nnouveau fichier n'est pas encore indexé du part du git
+-U : un nouveau fichier n'est pas encore indexé du part du git
 -A : nouveau fichier indexé du part de git
 -M : fichier modifié 
 
